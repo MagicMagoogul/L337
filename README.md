@@ -7,7 +7,7 @@ With the points, the player would then be able to unlock new complex tools to us
 If you feel interested in collaborating on the code for this game, sound design, or just contributing to the project in any way to make it the best thing it can be.. 
 Feel free to hit me up! 
 
-'''
+<!--
 
 ░▒▓█▓▒░      ░▒▓███████▓▒░▒▓███████▓▒░░▒▓████████▓▒░      
 ░▒▓█▓▒░             ░▒▓█▓▒░     ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      
@@ -18,4 +18,13 @@ Feel free to hit me up!
 ░▒▓████████▓▒░▒▓███████▓▒░▒▓███████▓▒░     ░▒▓█▓▒░        
                                                           
                                                           
-'''
+-->
+
+# TO DO LIST
+
+  - Make sure the game has functionality such as: Nmap, sudo apt get, Metasploit, Dirsearch, Hashcat, Vim, and all basic linux functionality (screw windows) 
+  - Figure out how to make it as a Virtual Machine
+  - Figure out how to boot directly to the title screen
+  - Figure out how to implement aesthetic functionality into the operating system (bloom, animations, effects, etc...)
+  - Figure out how to implement a litteral main character, maybe like a desktop goose? You could just walk around to each challenge on your desktop?
+  - 

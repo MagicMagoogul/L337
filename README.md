@@ -7,7 +7,7 @@ With the points, the player would then be able to unlock new complex tools to us
 If you feel interested in collaborating on the code for this game, sound design, or just contributing to the project in any way to make it the best thing it can be.. 
 Feel free to hit me up! 
 
-<!--
+'''
 
 ░▒▓█▓▒░      ░▒▓███████▓▒░▒▓███████▓▒░░▒▓████████▓▒░      
 ░▒▓█▓▒░             ░▒▓█▓▒░     ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      
@@ -18,4 +18,4 @@ Feel free to hit me up!
 ░▒▓████████▓▒░▒▓███████▓▒░▒▓███████▓▒░     ░▒▓█▓▒░        
                                                           
                                                           
--->
+'''

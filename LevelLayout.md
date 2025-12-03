@@ -6,4 +6,4 @@
   - Level 5) Garfield PHD.
   - Level 6) Frazzeta
   - Level 7) Kopinski
-  - Level 8) 
+  - Level 8) Avon
